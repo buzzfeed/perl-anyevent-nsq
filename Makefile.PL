@@ -5,7 +5,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     NAME             => 'AnyEvent::NSQ',
-    VERSION          => "0.02",
+    VERSION          => '0.02',
     DISTVNAME        => 'AnyEvent-NSQ-0.02',
     AUTHOR           => q{Pedro Melo <melo@cpan.org>},
     LICENSE          => 'Artistic_2_0',
